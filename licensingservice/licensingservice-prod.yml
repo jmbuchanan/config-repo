@@ -1,1 +1,2 @@
 spring.datasource.password: "{cipher}38195bd7e850d59b0d3dcbebf7946894deda4bc3cab389274c87aa1a444e9110"
+tracer.property: "I AM PROD"
